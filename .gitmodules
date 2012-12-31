@@ -1,0 +1,5 @@
+[submodule "repo/eza-themes"]
+    path = repo/eza-themes
+    url = https://github.com/eza-community/eza-themes.git
+    shallow = true
+    branch = main
